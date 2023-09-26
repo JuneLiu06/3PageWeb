@@ -1,17 +1,17 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e0f7ff;
+    background-color: #bcecf5;
     margin: 0;
     padding: 0;
 }
 
-.navbar {
-    background-color: #0077a2;
+.navgbar {
+    background-color: #42c3ff;
     overflow: hidden;
     padding: 10px;
 }
 
-.navbar a {
+.navgbar a {
     float: left;
     display: block;
     color: white;
@@ -20,7 +20,7 @@ body {
     text-decoration: none;
 }
 
-.navbar a:hover {
+.navgbar a:hover {
     background-color: #ddd;
     color: black;
 }
@@ -31,11 +31,11 @@ body {
     padding: 20px;
     background-color: #ffffff;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px #bcecf5;
 }
 
 h1 {
-    color: #0077a2;
+    color: #42c3ff;
 }
 
 img {
